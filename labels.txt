@@ -1,2 +1,2 @@
-0 dormido
-1 despierto
+0 Esfero
+1 Lapiz
